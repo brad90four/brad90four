@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on improving my programming knowledge with Python. 
+- 🌱 I’m currently learning about contributing to open source, and building knowledge with `git`.
+- 💬 Ask me about Python, Engineering, Physics
+
 <!--
 **brad90four/brad90four** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![brad90four's GitHub stats](https://github-readme-stats.vercel.app/api?username=brad90four&show_icons=true&theme=chartreuse-dark)
